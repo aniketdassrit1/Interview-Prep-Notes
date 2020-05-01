@@ -48,4 +48,4 @@
 * delete operator
 * Dates
 * Regular expressions
-* Memory management   
+* Memory management
