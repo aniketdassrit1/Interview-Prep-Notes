@@ -1,4 +1,4 @@
-* Prototypical inheritance
+* Difference between Classical and Prototypical inheritance
 * Arguments object
 * Scoping 
 * Closure
@@ -22,7 +22,6 @@
 * Null, undefined and undeclared. How to check it?
 * Difference between forEach and map
 * Use case of anonymous function
-* Difference between classical and prototypical inheritance
 * Difference between host and native object
 * Why would you use document.write()
 * Ajax
