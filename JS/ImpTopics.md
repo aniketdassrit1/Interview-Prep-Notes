@@ -1,4 +1,4 @@
-* Difference between Classical and Prototypical inheritance
+* Prototypical inheritance
 * Arguments object
 * Scoping 
 * Closure
