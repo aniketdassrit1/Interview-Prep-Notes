@@ -1,10 +1,12 @@
 * Prototypical inheritance
 * Arguments object
-* Scoping 
 * Closure
+* Apply, call and bind
+* Promise, observable, async, await
+* How browsers work
+* Scoping 
 * The event loop. Difference between call stack and task queue
 * Event bubbling
-* Apply, call and bind
 * Callback and promises
 * variable and function hoisting
 * Currying
@@ -38,10 +40,8 @@
 * Destructuring object and array
 * Spread operator
 * Static class member
-* Promise, observable, asyn, await
 * DOM manipulation
 * Shadow dom
-* How browsers work
 * Drawbacks of creating true private functions in JS
 * How to check whether an object is array or not.
 * delete operator
