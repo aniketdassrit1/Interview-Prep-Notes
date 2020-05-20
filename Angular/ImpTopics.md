@@ -3,6 +3,7 @@
 * Angular data flow best practices
 * Uni-directional flow in Angular
 * Advantages of one way binding
+* Data binding
 * Directives
 * Angular life cycle hooks
 * Angular HTTP and observables
@@ -21,4 +22,7 @@
 * State management with Rxjs
 * Dependency injection and Zones
 * Shadow DOM
+* Services
+* Decorator
+* If your data model is updated outside the ‘Zone’, explain the process how will you the view
 * Unit testing - Karma and Jasmine
