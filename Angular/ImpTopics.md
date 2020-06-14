@@ -17,6 +17,7 @@
 * Lazy-loading
 * Pipes
 * @viewChild and @ContentChild
+* @Input, @Output, @Inject
 * Dynamic components and ng-template
 * @Host, @HostBinding and exportAs
 * State management with Rxjs
