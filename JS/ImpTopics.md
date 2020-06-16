@@ -6,7 +6,7 @@
 * How browsers work
 * Scoping 
 * The event loop. Difference between call stack and task queue
-* Event bubbling
+* Event bubbling and Event Capturing
 * Callback and promises
 * variable and function hoisting
 * Currying
