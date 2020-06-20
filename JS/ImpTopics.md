@@ -7,6 +7,7 @@
 * Scoping 
 * The event loop. Difference between call stack and task queue
 * Event bubbling and Event Capturing
+* Event delegation
 * Callback and promises
 * variable and function hoisting
 * Currying
@@ -18,7 +19,6 @@
     * Facade
     * Observer
     * MVC, MVP and MVVM
-* Event delegation
 * this operator
 * IIFE
 * Null, undefined and undeclared. How to check it?
