@@ -39,4 +39,6 @@ for(var i=1; i<5; i++) {
 * Promise and observables
 * Lazy loading
 * What do you think of angular and react?
+* How to create a multilingual website?
+* AOT and JIT
 
