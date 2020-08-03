@@ -10,14 +10,17 @@ var y = {
 Solution: 
 ```
  for(var i=0; i<x.length; i++) {
-	if (typeof x[i] == 'number') {
-	y['number'].push(x[i]);
-	} else if (typeof x[i] == 'string') {
-		y['string'].push(x[i]);
-	} else {
-	y['boolean'].push(x[i]);
-	}
-	}
+    switch(typeof x[i]) {
+        case 'number':
+            y['number'].push(x[i]);
+            break;
+        case 'string':
+            y['string'].push(x[i]);
+            break;
+        default:
+            y['boolean'].push(x[i]);
+            break;
+    }
 ```
 ```
 var x = [1,2,3,4,5];

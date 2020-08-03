@@ -27,3 +27,4 @@
 * Decorator
 * If your data model is updated outside the ‘Zone’, explain the process how will you the view
 * Unit testing - Karma and Jasmine
+* Subject
