@@ -6,3 +6,4 @@
 * Pipe
 * Angular 9 features
 * Create a header at the top and footer at the bottom, and the content body should get scroll when the content exceed the body.
+* Explain all lifecycle hooks in angular

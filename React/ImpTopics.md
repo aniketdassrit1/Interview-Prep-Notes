@@ -1,3 +1,7 @@
+* Compound components
+* Namespaced component
+* React children api
+* React higher order components
 * https://github.com/sudheerj/reactjs-interview-questions
 * Difference between real, virtual and shadow DOM?
 * What is Props, State?
