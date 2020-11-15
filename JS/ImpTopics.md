@@ -5,7 +5,7 @@
 * Promise, observable, async, await
 * How browsers work
 * Scoping 
-* The event loop. Difference between call stack and task queue
+* The event loop. Difference between call stack and task queue.
 * Event bubbling and Event Capturing
 * Event delegation
 * Callback and promises
