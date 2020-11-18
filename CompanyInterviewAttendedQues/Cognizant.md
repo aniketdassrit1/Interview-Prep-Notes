@@ -2,6 +2,7 @@
     * Table with 3 rows task name, date and status
     * Do not make http call return an observable with data.
     * Date format YY/MMMM
+    * When the table loads the data update the parent.
 
 * Add service directly in the component without using provider
 * What is meant by 
@@ -17,3 +18,4 @@
     * Because Angular component are display inline.
 * What if we provide the service in Component and in Module as well?
 * What is pure and impure pipe?
+* What is BrowserModule?
