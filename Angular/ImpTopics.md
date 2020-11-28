@@ -13,8 +13,8 @@
 * Angular content projection with ng-content
 * QueryList
 * Angular onPush change detection
-* Pre-loads
 * Lazy-loading
+* Preloading
 * Pipes
 * @viewChild and @ContentChild
 * @Input, @Output, @Inject
@@ -28,3 +28,4 @@
 * If your data model is updated outside the ‘Zone’, explain the process how will you the view
 * Unit testing - Karma and Jasmine
 * Subject
+* How to minify Angular project
