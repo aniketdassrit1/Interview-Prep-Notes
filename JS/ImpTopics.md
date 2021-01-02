@@ -48,3 +48,5 @@
 * Dates
 * Regular expressions
 * Memory management
+* https://www.wisdomjobs.com/e-university/front-end-developer-interview-questions.html
+* https://github.com/h5bp/Front-end-Developer-Interview-Questions

@@ -4,7 +4,9 @@
 * React higher order components
 * https://github.com/sudheerj/reactjs-interview-questions
 * Difference between real, virtual and shadow DOM?
-* What is Props, State?
+* What is Props, State, Component?
+* JSX
+* React Hooks
 * Stateful and Stateless component
 * Lifecycle methods and Lifecycle hooks
 * refs
