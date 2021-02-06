@@ -1,5 +1,5 @@
-* They gave some Data of Product, Quantity, Year, Division in two diff table and asked me to Developer Donut chart using those data and need to display data which is unmatched in both table. They focus on about Logic and concept.
-* Asked Basic questions like CSS selector, Callback, Promise, box model in css, semantic elements, user strict in js, What is Doctype, Async/Await, CSS Specificity.
+* They gave some Data of Product, Quantity, Year, Division in two diff table and asked me to develop Donut chart using those data and need to display data which is unmatched in both table. They focus on about Logic and concept.
+* Asked Basic questions like CSS selector, Callback, Promise, box model in css, semantic elements, use strict in js, What is Doctype, Async/Await, CSS Specificity.
 * what is the difference bet. normal function and Arrow function
 * array.map method.
 * diff. let, var, const.
